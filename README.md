@@ -18,3 +18,4 @@ The repository includes:
 - Configuration files for automation
 
 This assignment was created as part of the DevOps coursework.
+
