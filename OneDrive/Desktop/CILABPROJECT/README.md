@@ -2,8 +2,8 @@
 
 This repository contains my DevOps laboratory assignment on **Jenkins and Continuous Integration**.
 
-- Name: Deepkiran  
-- Registration Number: 23FE10CSE00307
+- Name: ARMAN PHAUGAT
+- Registration Number: 23FE10CSE00309
 - Course: B.Tech Computer Science and Engineering  
 - University: Manipal University Jaipur  
 
